@@ -2,5 +2,6 @@ Task 1 - [Lucid Chart](https://lucid.app/lucidchart/8af83f2e-4d7c-4fed-b2a8-e35b
 
 Google Colab 
       [SQL](https://colab.research.google.com/drive/13-4H0n7I4va5KDmZjbcV8foDwEkWdLNx?usp=sharing)
+      
       [Python](https://colab.research.google.com/drive/1OmCKMVQDkUJaRegdjz-CNzlaKoAam68X?usp=sharing)
           
