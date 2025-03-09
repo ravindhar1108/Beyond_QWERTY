@@ -5,4 +5,6 @@ Google Colab
 [SQL](https://colab.research.google.com/drive/13-4H0n7I4va5KDmZjbcV8foDwEkWdLNx?usp=sharing)
 
 [Python](https://colab.research.google.com/drive/1OmCKMVQDkUJaRegdjz-CNzlaKoAam68X?usp=sharing)
+
+Project Deployment - [Link](https://beyondqwerty.vercel.app/)
           
